@@ -1,6 +1,6 @@
 # AttrGAU: Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation
 
-The code of our paper "Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation" [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10707460).
+The code of our paper "Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation" [[pdf]](https://ieeexplore.ieee.org/document/10707460).
 
 
 
