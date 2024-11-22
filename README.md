@@ -2,7 +2,7 @@
 
 The code of our paper "Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation" [[pdf]](https://ieeexplore.ieee.org/document/10707460).
 
-
+### The code is lost, rewriting it now.
 
 ## Citation
 If you find AttrGAU useful, please cite the following paper:
